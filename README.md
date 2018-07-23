@@ -1,1 +1,1 @@
-# springboot_rabbitmq
+# springboot_rabbitmq 小例子
