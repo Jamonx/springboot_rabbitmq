@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 /**
- * 程序入口
- * author jamon.jiang
+ *123456
  */
 @SpringBootApplication
 public class Application {
