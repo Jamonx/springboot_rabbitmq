@@ -7,6 +7,10 @@ import org.springframework.stereotype.Component;
 
 import java.util.UUID;
 
+/**
+ * rabbitmq callback function
+ * author
+ */
 @Component
 public class CallBackSender implements  RabbitTemplate.ConfirmCallback{
     @Autowired

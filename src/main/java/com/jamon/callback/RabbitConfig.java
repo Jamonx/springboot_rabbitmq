@@ -8,6 +8,11 @@ import org.springframework.beans.factory.config.ConfigurableBeanFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Scope;
 
+/**
+ *  * rabbit init configuration
+ *  * author by jamon.jiang
+ *  2018/7/23
+ */
 public class RabbitConfig {
     @Value("${spring.rabbitmq.host}")
     private String addresses;
